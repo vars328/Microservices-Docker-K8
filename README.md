@@ -2,16 +2,23 @@
 Express based Microservices + Docker + Kubernetes(K8) with React front end.
 
 PreReqs:
+---------------
 
 npm
-Docker and Kubernetes .
-Scaffold (https://skaffold.dev/docs/install/)
+
+Docker and Kubernetes.
+
+Scaffold (https://skaffold.dev/docs/install/).
+
+
 
 In hosts file the following entry need to be made to map the posts domain to localhost  ( for mac) in /etc/hosts
 127.0.0.1 posts.com
 
 
 Running the application:
+------------------------
+
 
 Launch terminal and run 
 
